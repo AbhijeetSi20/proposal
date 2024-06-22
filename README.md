@@ -1,2 +1,2 @@
-# proposal
+# fun
 just for  fun
